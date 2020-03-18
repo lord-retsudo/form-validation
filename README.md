@@ -1,4 +1,4 @@
-# form-validation v0.0.2
+# form-validation v0.0.3
 RegExp form validation for Yandex Prarktikum
 
 # GitHub
